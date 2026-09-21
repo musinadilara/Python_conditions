@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Страница-1" id="W7XsnqVT7e3kyr9M5kIB">
-    <mxGraphModel dx="1717" dy="1203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2.3" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="559" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2.3" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="BZgGqO3h93-_vCsJcsG9-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;labelBackgroundColor=none;rotation=0;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="Ввод значения year" vertex="1">
           <mxGeometry height="80" width="120" x="892.5" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="BZgGqO3h93-_vCsJcsG9-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;labelBackgroundColor=none;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="Вычисление остатка n = year % 2" vertex="1">
+        <mxCell id="BZgGqO3h93-_vCsJcsG9-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;labelBackgroundColor=none;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="Вычисление остатка n = year % 12" vertex="1">
           <mxGeometry height="80" width="120" x="891" y="235" as="geometry" />
         </mxCell>
         <mxCell id="BZgGqO3h93-_vCsJcsG9-6" edge="1" parent="1" source="BZgGqO3h93-_vCsJcsG9-4" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#09555B;" target="BZgGqO3h93-_vCsJcsG9-1" value="">
