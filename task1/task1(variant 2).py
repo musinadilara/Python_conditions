@@ -11,3 +11,5 @@ else:
      y = math.atan(2 * x - 0.6)
 print('Значение y для заданных a, b и x:', y)
 
+
+
